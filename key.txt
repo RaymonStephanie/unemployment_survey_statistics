@@ -1,0 +1,19 @@
+Mapping of responses to numbers:
+column: ubi
+Yes: 0
+No: 1
+column: edu
+Yes: 0
+No: 1
+Maybe: 2
+column: exp
+People spend their income in the means meant for the program, and elevate their status of life.: 0
+People spend their income on other things rather than necessities, and the program doesn't work.: 1
+Employment Goes Up, Unemployment is eradicated.: 2
+Employment Goes Down, Unemployment proliferates.: 3
+Employment Goes Down, Unemployment proliferates., People spend their income in the means meant for the program, and elevate their status of life.: 4
+People spend their income on other things rather than necessities, and the program doesn't work., People spend their income in the means meant for the program, and elevate their status of life.: 5
+Employment Goes Down, Unemployment proliferates., Employment Goes Up, Unemployment is eradicated., People spend their income in the means meant for the program, and elevate their status of life.: 6
+Employment Goes Up, Unemployment is eradicated., People spend their income in the means meant for the program, and elevate their status of life.: 7
+Employment Goes Down, Unemployment proliferates., Employment Goes Up, Unemployment is eradicated., People spend their income on other things rather than necessities, and the program doesn't work.: 8
+Employment Goes Down, Unemployment proliferates., People spend their income on other things rather than necessities, and the program doesn't work.: 9
